@@ -1,0 +1,2 @@
+Get data for traffic without fragment. We will send 64 bytes of data at every 10sec interval
+Find the number of packet getting dropped due to fragment loss.
